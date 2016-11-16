@@ -46,7 +46,19 @@
 
    * 非常好看的深色 Sublime 主題
    * 許多客制化的選項可自訂 (包含 sidebar, tab, panels... 等等)
+   
+## 字型
+
+* [Fira Code](https://github.com/tonsky/FiraCode)
+
+> 等寬字型是最適合程式設計師編寫程式的字型！
+
+> Fira Code 還有字體變化，但目前在 Sublime Text 3 上面還無法運作，大家可以去投票，請 Sublime Text 開放這個功能！>>>[投票連結](http://sublimetext.userecho.com/topics/4719-does-sublimetext-support-programming-ligatures-fontlike-fira-code/)<<<
 
 ## User Settings & Key Bindings
 
 ↑↑↑↑↑↑↑↑ 請看上方檔案 ↑↑↑↑↑↑↑↑
+
+## 畫面截圖
+
+ ![image](https://cdn.rawgit.com/mvpdw06/sublime-settings/master/screenshot.png)
