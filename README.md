@@ -46,3 +46,7 @@
 
    * 非常好看的深色 Sublime 主題
    * 許多客制化的選項可自訂 (包含 sidebar, tab, panels... 等等)
+
+## User Settings & Key Bindings
+
+↑↑↑↑↑↑↑↑ 請看上方檔案 ↑↑↑↑↑↑↑↑
